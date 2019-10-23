@@ -1,10 +1,10 @@
 # Voici le jeu AMAZONE
 
-D'abord, installez la librairie [SFML]( http://bit.ly/35BRjCS )
+D'abord, installez la librairie [SFML]( http://bit.ly/35BRjCS ).
 
-Puis, dans le `terminal`:
+Puis, clonez ce repertoire. 
 
-Rendez vous dans le dossier source `Amazone_SFLM`
+Enfin, dans le `terminal`:
 
 Compilation:
 ```shell
