@@ -1,6 +1,6 @@
-# Répertoire "container"
+# "Container" repository
 
-Voici différents "jeux" codés en C++ avec la librairie SFML.
+Here are different "games" coded in C++ with the SFML library.
 
 # Preview
 
