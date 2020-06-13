@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 *.o
+=======
+main.o
+Plateau.o
+>>>>>>> 33947bb45b7ac962ebf4c4d27346ff8cc87f8021
 main
 .idea

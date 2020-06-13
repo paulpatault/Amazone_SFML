@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mario VS Bowser !
  This is the game "Mario VS Bowser" !
 
@@ -19,3 +20,21 @@ $ ./main
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/) License
+=======
+# Plateform_Fight
+
+D'abord, installez la librairie [SFML]( http://bit.ly/35BRjCS )
+
+Puis, dans le `terminal`:
+
+Compilation:
+```shell
+ $   g++ main.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system
+```
+  Exécution:
+```shell
+ $   ./main
+```
+  
+
+>>>>>>> 33947bb45b7ac962ebf4c4d27346ff8cc87f8021

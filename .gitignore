@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 .idea
 .vscode
 .DS_Store
 *.o
+=======
+main.o
+Plateau.o
+main
+.idea
+.DS_Store
+.DS_Store
+>>>>>>> 33947bb45b7ac962ebf4c4d27346ff8cc87f8021
