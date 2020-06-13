@@ -1,19 +1,22 @@
-# Voici le jeu AMAZONE
+# AMAZONE
+ This is the game "AMAZONE" !
 
-D'abord, installez la librairie [SFML]( http://bit.ly/35BRjCS ).
+# Dependencies
 
-Puis, clonez ce repertoire. 
-
-Enfin, dans le `terminal`:
-
-Compilation:
-```shell
-  g++ -c Plateau.cpp main.cpp
-  g++ Plateau.o main.o -o main -lsfml-graphics -lsfml-window -lsfml-system
+First you must install [SFML]( http://bit.ly/35BRjCS ).
+Then clone this repository.
+Finally: 
 ```
-  Exécution:
-```shell
-  ./main
+$ g++ -c Plateau.cpp main.cpp
+$ g++ Plateau.o main.o -o main -lsfml-graphics -lsfml-window -lsfml-system
+$ ./main
 ```
-  
 
+# Preview
+
+| ![Preview image](assets/preview/3.png) | ![Preview image](assets/preview/1.png) | ![Preview image](assets/preview/2.png) |
+| :------------------------------------: | :------------------------------------: | :------------------------------------: |
+|           **Initial State**            |              **Midgame**               |            **Other Image**             |
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/) License
